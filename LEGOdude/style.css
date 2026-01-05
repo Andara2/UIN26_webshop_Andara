@@ -1,0 +1,34 @@
+:root {
+    --red: #da291c;
+    --yellow: #ffd700;
+    --blue: #006db7;
+    --green: #00af4d;
+    --black: #000000;  
+    --white: #ffffff;
+
+    --rootsize: 20px;
+    --maxwidth: 1200px;
+}
+
+h1 {
+    color: var(--red);
+    font-family: 'Arial Black', sans-serif;
+}
+
+body {
+    font-family: rubik, sans-serif;
+}
+
+p {
+    font-size: 1rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-family: 900;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
