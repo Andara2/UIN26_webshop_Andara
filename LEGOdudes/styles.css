@@ -95,7 +95,6 @@ nav {
         text-transform: uppercase;
         color: var(--white);
         text-decoration: none;
-        border-bottom: spx solid var(--red);
         
 
         &:hover {
